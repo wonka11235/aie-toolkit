@@ -1,0 +1,3 @@
+- [Matt Pocock Skills](https://github.com/mattpocock/skills)
+- [pass](https://www.passwordstore.org)
+- [pass GitHub](https://github.com/zx2c4/password-store)
