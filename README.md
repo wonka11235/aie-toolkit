@@ -13,3 +13,6 @@
 
 ### Welcome!
 This is my attempt to keep all of the various AI resources that I come across in a single place. When I add something here, I will annotate the resource with some notes/takeaways. I created this to track my own AI Engineering journey, but you are welcome to follow along!
+
+### What "AI Engineering" Means to Me
+A term that most are familiar with is "AI slop," which describes the phenomenom of agentic-accelerated Garbage In, Garbage Out. AI Engineering, to me, is the opposite of that. When paired with tried and true engineering methodologies, agentic-assisted code creation can be just as robust as hand-written code produced in a fraction of the time.
